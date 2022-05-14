@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFC Scanner</string>
+    <string name="reading">Scanning!</string>
+</resources>
