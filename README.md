@@ -9,6 +9,10 @@
 
 # layout can be found in the following path:
 
-#https://github.com/MohammadRedwan/NFCScanner/tree/main/app/src/main/res/layout
+# https://github.com/MohammadRedwan/NFCScanner/tree/main/app/src/main/res/layout
 
-#the getLocation function was copied and added to the project.
+# Manifest can be found in the following path:
+
+# https://github.com/MohammadRedwan/NFCScanner/blob/main/app/src/main/AndroidManifest.xml
+
+# the getLocation function was copied and added to the project.
